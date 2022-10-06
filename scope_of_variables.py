@@ -3,7 +3,7 @@
 # Created By: Ioana Marinescu
 #
 # Date: Oct. 5, 2022
-# This program shows assingment statements
+# This program shows assignment statements
 
 
 def main():
